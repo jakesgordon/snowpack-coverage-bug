@@ -1,0 +1,27 @@
+# Elixir build artifacts
+/_build/
+
+# Elixir dependencies
+/deps/
+
+# Elixir VM crashes
+erl_crash.dump
+
+# Front End Build Directory
+/priv/assets*
+
+# Javascript dependencies
+/node_modules/
+
+# Yarn dependency errors
+yarn-error.log
+
+# dotenv files
+.env*
+
+# self signed dev ssl certificates for testing HTTP/2
+snowpack.crt
+snowpack.key
+
+# coverage reports
+.coverage
