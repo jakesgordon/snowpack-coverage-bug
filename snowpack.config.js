@@ -1,5 +1,5 @@
 module.exports = {
   mount: {
-    web: '/'
+    src: '/'
   },
 };
