@@ -1,5 +1,8 @@
 module.exports = {
   mount: {
-    src: '/'
+    src: { url: '/' }
+  },
+  buildOptions: {
+    sourcemap: true
   },
 };
